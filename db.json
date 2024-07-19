@@ -1061,7 +1061,8 @@
       "oldprice": "₹24797",
       "stores": "Compare 4 stores",
       "status": "In Transit",
-      "date" : "19-07-2024"
+      "date" : "19-07-2024",
+      "username" : "Ashutosh Kumar"
     },
     {
       "id": "11871",
@@ -1072,7 +1073,8 @@
       "oldprice": "₹24797",
       "stores": "Compare 4 stores",
       "status": "In Transit",
-      "date" : "19-07-2024"
+      "date" : "19-07-2024",
+      "username" : "Vikram Kumar"
     },
     {
       "id": "11864",
@@ -1083,7 +1085,8 @@
       "oldprice": "₹26202",
       "stores": "Compare 4 stores",
       "status": "In Transit",
-      "date" : "19-07-2024"
+      "date" : "19-07-2024",
+      "username" : "Ashita Kumari"
     },
     {
       "id": "11865",
@@ -1095,7 +1098,8 @@
       "stores": "Compare 4 stores",
       "product-tag-trending": "https://cdn.modesens.com/static/img/20240229_trending_en.svg",
       "status": "In Transit",
-      "date" : "19-07-2024"
+      "date" : "19-07-2024",
+      "username" : "Arijit Kumar"
     },
     {
       "id": "11866",
@@ -1106,7 +1110,8 @@
       "oldprice": "₹79039",
       "stores": "Compare 4 stores",
       "status": "In Transit",
-      "date" : "19-07-2024"
+      "date" : "19-07-2024",
+      "username" : "Vikki Kumar"
     },
     {
       "id": "11867",
@@ -1118,7 +1123,8 @@
       "stores": "Compare 4 stores",
       "product-tag-trending": "https://cdn.modesens.com/static/img/20240229_trending_en.svg",
       "status": "In Transit",
-      "date" : "19-07-2024"
+      "date" : "19-07-2024",
+      "username" : "Vikram Kumar"
     },
     {
       "id": "11868",
@@ -1130,7 +1136,8 @@
       "stores": "Compare 4 stores",
       "product-tag-trending": "https://cdn.modesens.com/static/img/20240229_trending_en.svg",
       "status": "In Transit",
-      "date" : "19-07-2024"
+      "date" : "19-07-2024",
+      "username" : "Vishnu Kumar"
     },
     {
       "id": "11869",
@@ -1142,7 +1149,8 @@
       "stores": "Compare 4 stores",
       "product-tag-trending": "https://cdn.modesens.com/static/img/20240229_trending_en.svg",
       "status": "In Transit",
-      "date" : "19-07-2024"
+      "date" : "19-07-2024",
+      "username" : "John Doe"
     },
     {
       "id": "11870",
@@ -1154,7 +1162,8 @@
       "stores": "Compare 4 stores",
       "product-tag-trending": "https://cdn.modesens.com/static/img/20240229_trending_en.svg",
       "status": "In Transit",
-      "date" : "19-07-2024"
+      "date" : "19-07-2024",
+      "username" : "Abishek Kumar"
     },
     {
       "id": "11871",
@@ -1165,7 +1174,8 @@
       "oldprice": "₹24797",
       "stores": "Compare 4 stores",
       "status": "In Transit",
-      "date" : "19-07-2024"
+      "date" : "19-07-2024",
+      "username" : "Abhishesh Kumar"
     }
   ]
 }
